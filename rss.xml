@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TestMXFL]]></title>
-        <description><![CDATA[TestMXFL]]></description>
+        <title><![CDATA[Madden Xtreme Football League]]></title>
+        <description><![CDATA[Madden Xtreme Football League]]></description>
         <link>https://thegrid.ai/testmxfl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 03:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 03:56:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testmxfl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MXFL League Rules and Regulations]]></title>
+            <description><![CDATA[<h1>MXFL League Rules and Regulations</h1>]]></description>
+            <link>https://thegrid.ai/testmxfl/mxfl-league-rules-and-regulations/index.html</link>
+            <guid isPermaLink="false">7eff423d-3af3-4543-b37e-f95cd602bd39</guid>
+            <pubDate>Tue, 19 Jan 2016 03:56:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://media.easports.com/content/www-easports/en_US/madden-nfl/news/2015/madden-16-passing-game/_jcr_content/headerImages/image.img.jpg">]]></description>
