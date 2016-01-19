@@ -1,5 +1,4 @@
-favicon: null
-name: TestMXFL
+layout_spectrum: 0.7984823
 opengraph:
   image: null
   type: null
@@ -28,13 +27,14 @@ color:
     - '#797979'
     - '#fd0000'
   rhythmicContrast: 1
-typography_spectrum: 0.58041
+typography_spectrum: 0.07419899
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.7984823
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: TestMXFL
