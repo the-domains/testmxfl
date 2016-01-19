@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: All league rules and regulations
-datePublished: '2016-01-19T15:54:39.623Z'
-dateModified: '2016-01-19T15:54:35.106Z'
+datePublished: '2016-01-19T16:14:49.730Z'
+dateModified: '2016-01-19T16:14:43.181Z'
 title: MXFL League Rules and Regulations
 author: []
 sourcePath: _posts/2016-01-19-mxfl-league-rules-and-regulations.md
@@ -549,5 +549,7 @@ Trade permission will be revoked.
 
 **The MXFL League Rules are subject to change at any time, at
 the discretion of the Commissioner and/or Co Commissioners!​**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042c7b6f-ea49-4343-a92a-b8c167b57422.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f953cd6-d5c9-4363-bea9-23c6fb800c68.jpg)
 
 [0]: https://www.daddyleagues.com/mxfl16
