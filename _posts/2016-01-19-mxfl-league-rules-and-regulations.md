@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: All league rules and regulations
-datePublished: '2016-01-19T18:08:22.455Z'
+datePublished: '2016-01-19T18:08:22.463Z'
 dateModified: '2016-01-19T18:08:17.107Z'
 title: MXFL League Rules and Regulations
 author: []
