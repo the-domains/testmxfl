@@ -1,40 +1,18 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-purpose: []
+analytics: {}
 color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 1
   brandColors:
     - '#ffffff'
     - '#060606'
     - '#c2c2c2'
     - '#797979'
     - '#fd0000'
-  rhythmicContrast: 0.5185497
-typography_spectrum: 0.07419899
+  brandStrength: 1
+  lightness: 1
+  rhythmicContrast: 0.518549
+  saturation: 1
+cta: {}
 layout_spectrum: 0.7984823
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 name: TestMXFL
+opengraph: {}
+purpose: []
+typography_spectrum: 0.07419899
