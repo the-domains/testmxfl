@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Expectations for all MXFL owners
-datePublished: '2016-01-19T16:35:20.497Z'
-dateModified: '2016-01-19T16:34:40.091Z'
+datePublished: '2016-01-19T16:39:13.775Z'
+dateModified: '2016-01-19T16:39:11.981Z'
 title: League Expectations
 author: []
+sourcePath: _posts/2016-01-19-league-expectations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-league-expectations.md
-published: true
 url: league-expectations/index.html
 _type: WebPage
 
