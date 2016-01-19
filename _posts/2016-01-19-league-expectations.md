@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Expectations for all MXFL owners
-datePublished: '2016-01-19T17:56:23.898Z'
-dateModified: '2016-01-19T17:56:20.461Z'
+datePublished: '2016-01-19T17:57:22.858Z'
+dateModified: '2016-01-19T17:57:17.346Z'
 title: League Expectations
 author: []
 sourcePath: _posts/2016-01-19-league-expectations.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: league-expectations/index.html
-_type: Article
+_type: WebPage
 
 ---
 Gentlemen, we know that everyone is eager for the season to
