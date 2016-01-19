@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Expectations for all MXFL owners
-datePublished: '2016-01-19T17:57:22.858Z'
+datePublished: '2016-01-19T17:57:23.292Z'
 dateModified: '2016-01-19T17:57:17.346Z'
 title: League Expectations
 author: []
