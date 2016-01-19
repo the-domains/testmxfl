@@ -1,28 +1,40 @@
-name: TestMXFL
 favicon: null
-layout_spectrum: 0.503127831267193
-typography_spectrum: 0.58041
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: TestMXFL
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0
+  brandStrength: 0
+  rhythmicContrast: 1
   brandColors:
     - '#ffffff'
     - '#060606'
     - '#c2c2c2'
     - '#797979'
     - '#fd0000'
-  brandStrength: 0
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.58041
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.7984823
+analytics:
+  twitter: null
+  google: null
+  facebook: null
