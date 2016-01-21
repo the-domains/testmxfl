@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T19:31:57.649Z'
-dateModified: '2016-01-21T19:31:45.983Z'
+datePublished: '2016-01-21T19:34:31.827Z'
+dateModified: '2016-01-21T19:34:29.463Z'
 title: MXFL League Videos
 author: []
+sourcePath: _posts/2016-01-21-mxfl-league-videos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-mxfl-league-videos.md
-published: true
 url: mxfl-league-videos/index.html
 _context: 'http://schema.org'
 _type: MediaObject
