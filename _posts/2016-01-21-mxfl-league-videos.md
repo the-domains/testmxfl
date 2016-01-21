@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-21T19:34:31.829Z'
-dateModified: '2016-01-21T19:34:29.463Z'
-title: MXFL League Videos
+description: MXFL League Video
+datePublished: '2016-01-21T20:22:03.342Z'
+dateModified: '2016-01-21T20:22:01.178Z'
+title: mxfl-league-videos
 author: []
 sourcePath: _posts/2016-01-21-mxfl-league-videos.md
 published: true
