@@ -4,8 +4,14 @@
         <description><![CDATA[Madden Xtreme Football League]]></description>
         <link>https://thegrid.ai/testmxfl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 05:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 06:22:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testmxfl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/testmxfl/5740c9b0-2ca3-4b94-b1f8-220f1382f5ba/index.html</link>
+            <guid isPermaLink="false">5740c9b0-2ca3-4b94-b1f8-220f1382f5ba</guid>
+            <pubDate>Thu, 21 Jan 2016 06:22:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Madden Xtreme Football League]]></title>
             <description><![CDATA[<article><h1>Madden Xtreme Football League</h1><p>Home of the MXFL Football League</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7255a57167539deb763cbb12244fd5b57c6edc0c.jpg"></article>]]></description>
