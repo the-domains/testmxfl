@@ -4,8 +4,15 @@
         <description><![CDATA[Madden Xtreme Football League]]></description>
         <link>https://thegrid.ai/testmxfl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 23:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 04:59:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testmxfl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Madden Xtreme Football League]]></title>
+            <description><![CDATA[<article><h1>Madden Xtreme Football League</h1><p>Home of the MXFL Football League</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7255a57167539deb763cbb12244fd5b57c6edc0c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testmxfl/madden-xtreme-football-league/index.html</link>
+            <guid isPermaLink="false">50c7c4c3-067f-4093-84eb-d759fd55cd66</guid>
+            <pubDate>Thu, 21 Jan 2016 04:59:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://media.easports.com/content/www-easports/en_US/madden-nfl/news/2015/madden-16-passing-game/_jcr_content/headerImages/image.img.jpg">]]></description>
