@@ -1,5 +1,8 @@
+name: MXFL
+favicon: null
+layout_spectrum: 0.73851
+typography_spectrum: 0.07419899
 title: Madden Xtreme Football League
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.1875
-  rhythmicContrast: 0
   brandColors:
     - '#ffffff'
     - '#060606'
     - '#c2c2c2'
     - '#797979'
     - '#fd0000'
+  brandStrength: 0.1875
   lightness: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: TestMXFL
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.07419899
-layout_spectrum: 0.8836425
+  saturation: 0
+  rhythmicContrast: 0
+purpose: []
