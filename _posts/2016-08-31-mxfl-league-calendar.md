@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T14:49:49.843Z'
+datePublished: '2016-08-31T14:50:55.909Z'
 sourcePath: _posts/2016-08-31-mxfl-league-calendar.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T14:49:49.310Z'
+dateModified: '2016-08-31T14:50:55.224Z'
 title: MXFL League Calendar
 publisher: {}
 description: ''
+hasPage: true
 starred: false
-_type: Blurb
+url: mxfl-league-calendar/index.html
+_type: Article
 
 ---
 # MXFL League Calendar
