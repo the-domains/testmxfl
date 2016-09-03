@@ -34,9 +34,6 @@ navigation:
   - name: MXFL League Calendar
     url: 'http://leaguecalendar.maddenxtremefootball.com/index.html'
     type: external
-  - name: MXFL Network
-    id: f3347da7-66d1-4f88-a5ef-df8471533da0
-    type: content
 favicon: null
 collections:
   - index:
