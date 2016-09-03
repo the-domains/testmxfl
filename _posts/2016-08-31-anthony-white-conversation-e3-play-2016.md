@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T21:54:35.809Z'
+datePublished: '2016-08-31T21:57:49.937Z'
 sourcePath: _posts/2016-08-31-anthony-white-conversation-e3-play-2016.md
 hasPage: true
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/channel/UCCMkh2dYymuzGpnmk1jS29g'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T21:54:35.232Z'
+dateModified: '2016-08-31T21:57:49.216Z'
 title: Anthony White Conversation E3 Play 2016
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=kzEDJQVq7Y8&feature=applinks'
@@ -75,4 +75,4 @@ _type: VideoObject
 
 Anthony White Conversation Part 2
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUEOwiAQQNGrkDlA6aJJG1O60o07NyYuC0yFCKLDkImeXqMH-O_PcaM1o5LoORgY-wFUwHgNbGCYelCVnIHA_Kg7rUWke5XGzWLnStaYLXp9ex_2x9P5OV4mUD_OFvJIBr79mlKRraVUHSHel1n_j8sHwaEpng" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUEKwjAQAMCvhH1AV9EKStO7F0vBi8cm2ZpA0kiyYfH3in5gZghrWRIpCY69hv60A-UpPD1rOOx7ULVYDZ75VS-IItK9c-NmqLM5ISVDDo-Tv53veebrA9SPM7k4Khq-2BJjlrXFWG0h2sYB_-P4Ab8CKZ8" style=""></iframe>
