@@ -4,7 +4,7 @@
         <description><![CDATA[Madden Xtreme Football League]]></description>
         <link>https://thegrid.ai/testmxfl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 13:57:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 13:57:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testmxfl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MXFL Rules and Regulations]]></title>
@@ -47,13 +47,6 @@
             <link>https://www.easports.com/madden-nfl/news/2016/madden-17-gameplay-ball-carrier-special-moves</link>
             <guid isPermaLink="false">c89d42db-e261-42fc-b9f5-002eede35d35</guid>
             <pubDate>Thu, 19 May 2016 18:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Madden NFL 16 Tips: Best Three Running Plays]]></title>
-            <description><![CDATA[<article><h1>Madden NFL 16 Tips: Best Three Running Plays</h1><p>Run the ball with these quick tips and great running plays</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e67732fddc920ba383d7e932b6f894fa2e536ae1.jpg"></article>]]></description>
-            <link>https://www.easports.com/madden-nfl/tips-and-tricks/best-three-runs</link>
-            <guid isPermaLink="false">873a5d5b-101b-4317-952e-7262f7cdb07c</guid>
-            <pubDate>Mon, 18 Jan 2016 20:40:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
