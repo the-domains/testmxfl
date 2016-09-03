@@ -4,8 +4,15 @@
         <description><![CDATA[Madden Xtreme Football League]]></description>
         <link>https://thegrid.ai/testmxfl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 21:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 13:57:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testmxfl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MXFL Rules and Regulations]]></title>
+            <description><![CDATA[<article><h1>MXFL Rules and Regulations</h1><p>Advances during offseason are as follows:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4a5f5fe-3315-4935-815f-efb29c411278.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testmxfl/mxfl-rules-and-regulations/index.html</link>
+            <guid isPermaLink="false">aae5bbb2-5ef2-4035-8814-0bda2e002903</guid>
+            <pubDate>Wed, 31 Aug 2016 13:49:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Madden NFL 17 | Additional Gameplay Improvements | Special Teams, Catch Outcomes & Ball Physics]]></title>
             <description><![CDATA[<article><h1>Madden NFL 17 | Additional Gameplay Improvements | Special Teams, Catch Outcomes & Ball Physics</h1><p>Posted May 26th at 7:00pm. Madden NFL 17 on Xbox One and PlayStation®4 is the culmination of community feedback and years of technological advancements. In our previous blog, we detailed the lead feature in the ground game. Today, we will cover updates within special teams and a top community request, pass defense.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74de0ed0f8020144a21f1043990642f9a35c123b.jpg"></article>]]></description>
@@ -54,13 +61,6 @@
             <link>https://www.easports.com/madden-nfl/tips-and-tricks/best-three-runs</link>
             <guid isPermaLink="false">873a5d5b-101b-4317-952e-7262f7cdb07c</guid>
             <pubDate>Mon, 18 Jan 2016 20:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Madden NFL 16 Tips: How to Celebrate a TD]]></title>
-            <description><![CDATA[<article><h1>Madden NFL 16 Tips: How to Celebrate a TD</h1><p>Learn how to celebrate with the ball carrier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d4c9b9b041bc1b7a67d98bebc39a833efa2c18e.jpg"></article>]]></description>
-            <link>https://www.easports.com/madden-nfl/tips-and-tricks/celebrate-td</link>
-            <guid isPermaLink="false">61a5066e-898b-4839-8802-06262f10c545</guid>
-            <pubDate>Mon, 18 Jan 2016 20:36:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
