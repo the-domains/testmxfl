@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T13:47:35.333Z'
+datePublished: '2016-08-31T13:49:59.150Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T13:46:45.285Z'
+dateModified: '2016-08-31T13:49:53.908Z'
 title: MXFL Rules and Regulations
 publisher: {}
 description: 'Advances during offseason are as follows:'
-starred: false
 sourcePath: _posts/2016-08-31-mxfl-rules-and-regulations.md
-_type: Blurb
+hasPage: true
+starred: false
+url: mxfl-rules-and-regulations/index.html
+_type: Article
 
 ---
 # _M_XFL Rules and Regulations
