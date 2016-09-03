@@ -31,6 +31,9 @@ navigation:
   - name: MXFL Rules and Regulations
     id: aae5bbb2-5ef2-4035-8814-0bda2e002903
     type: content
+  - name: League Calendar
+    id: 8afc3fcc-82c7-42b6-8661-d729e3e80d66
+    type: content
 favicon: null
 collections:
   - index:
