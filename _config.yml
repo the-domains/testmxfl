@@ -37,9 +37,6 @@ navigation:
   - name: MXFL Network
     id: f3347da7-66d1-4f88-a5ef-df8471533da0
     type: content
-  - name: MXFL Network
-    id: e74ef5bc-9872-45a9-a0b9-a34786561ec1
-    type: content
 favicon: null
 collections:
   - index:
