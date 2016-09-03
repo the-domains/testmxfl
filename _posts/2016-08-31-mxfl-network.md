@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T15:49:06.127Z'
+datePublished: '2016-08-31T17:36:09.222Z'
 sourcePath: _posts/2016-08-31-mxfl-network.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T15:49:05.519Z'
+dateModified: '2016-08-31T17:36:08.690Z'
 title: ''
 publisher: {}
 description: MXFL Network
@@ -16,4 +16,4 @@ _type: Blurb
 ---
 MXFL Network
 
-https://youtu.be/SJ9oAHZJ4iU
+<youtube\>https://youtu.be/SJ9oAHZJ4iU</youtube\>
