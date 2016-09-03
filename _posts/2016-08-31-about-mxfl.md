@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T14:06:19.401Z'
+datePublished: '2016-08-31T14:06:57.398Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T14:05:47.642Z'
+dateModified: '2016-08-31T14:06:53.807Z'
 title: About MXFL
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-31-about-mxfl.md
-_type: Blurb
+hasPage: true
+starred: false
+url: about-mxfl/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e0b31e3-b9ad-45ba-a96e-d033565ad4f9.jpg)
