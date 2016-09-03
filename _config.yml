@@ -31,6 +31,9 @@ navigation:
   - name: MXFL Rules and Regulations
     id: aae5bbb2-5ef2-4035-8814-0bda2e002903
     type: content
+  - name: MXFL League Calendar
+    url: 'http://leaguecalendar.maddenxtremefootball.com/index.html'
+    type: external
 favicon: null
 collections:
   - index:
