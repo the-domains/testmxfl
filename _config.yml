@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: MXFL Rules and Regulations
+    id: aae5bbb2-5ef2-4035-8814-0bda2e002903
+    type: content
 favicon: null
 collections:
   - index:
