@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T21:13:56.748Z'
+datePublished: '2016-08-31T21:16:04.938Z'
 sourcePath: _posts/2016-08-31-anthony-white-conversation-e3-play-2016.md
 hasPage: true
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/channel/UCCMkh2dYymuzGpnmk1jS29g'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T21:13:56.152Z'
+dateModified: '2016-08-31T21:16:04.717Z'
 title: Anthony White Conversation E3 Play 2016
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=kzEDJQVq7Y8&feature=applinks'
