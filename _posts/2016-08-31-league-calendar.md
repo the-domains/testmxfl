@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T14:22:07.284Z'
+datePublished: '2016-08-31T14:26:00.125Z'
 sourcePath: _posts/2016-08-31-league-calendar.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T14:21:59.456Z'
+dateModified: '2016-08-31T14:25:59.610Z'
 title: League Calendar
 publisher: {}
 description: ''
@@ -16,4 +16,4 @@ _type: Article
 ---
 # League Calendar
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1Ud1OwyAYvfcpKlcQu3JvyxJnvFiWqHG-AIOvLQuDBr4uWba-u7ROXZZ5Bzk_3zk5VYs7O7-rtNlnRgvSd-hnSlpwWoaZ8g6lcRBmq-3qjWTKyhivSZ3tG-PIvIoqmA7n93XvFBrvqMo3uWTHn3-macuOexkyENqrfgcOiwbwxcL4XByWmv4bgDwoltd_OhVAIpyllKyfP5bvn4TljSAtYhcfOR-tCuV3fBv5d8hiG0lZF94lsT5ETA6qla4B8ZuZHU1N62IirEeCEIJYLzVocjpdA8m9s4BAUstbtq63tmwpG4bp7OhzeWpEEhABnxCD2fQIlMSgSN6wEopOhlTu1WsojIsQcAG1D0DrHNig6YXRVNU4g1SxgQ2UTHuxsuLnUSqeFk4782nvLyFLsyg" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1Uk1v3CAQPXd_hcsJFNuo6qUbG0vNqocoVVsl-QMsjG1WLLh4vB_a-L8Xe902itoTDPPmvZl5rMoW9zY57a3rBWkRu1vOj8djfvyY-9DwD-v1mp8mDKlWZQtSx2MPKJMJm8HPwRwE2XiH4DB7PndAEnWNBEE4IZ9qi0S1MvSAYsA6-0QSHlnQoIXqK8hmgGQjLTgtQ8mvz6uSX8VW5dbrc4y1OSRGCzJ06DO1wLNJSxoHIXvYPXyP2lb2_VtQZ4fGOFKVvQqmw-p9PTiFxjuq0m0q2eV3nGjasstBhgSE9mrYxzHyBvCLhel6d77X9L8NkBvF0vpvnQogEZZSSp42j_c_nglLG0HeLYueqHLl93zX82uT-a4nRZ17F4v1ucfIEFfnGhB_emYXU9M6nwFPE0AIQayXGjR5eXmbiOydBQQSp_wXrRusLVrKxnGWnXheS02ZmIjWfUYMZjsgUNIHRdKGFZB3MsThvnkNuXE9BLyD2gegdQps1PQV0TyqcQapYiMbKZn9YkXJF1NKHh2efF_8nj9O9QvBA-ta" style=""></iframe>
