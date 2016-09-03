@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-08-31T21:08:43.654Z'
-isBasedOnUrl: 'https://youtu.be/kzEDJQVq7Y8'
+datePublished: '2016-08-31T21:13:56.748Z'
+sourcePath: _posts/2016-08-31-anthony-white-conversation-e3-play-2016.md
+hasPage: true
 keywords:
   - duration
   - views
@@ -18,7 +19,7 @@ author:
     url: 'https://www.youtube.com/channel/UCCMkh2dYymuzGpnmk1jS29g'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T21:08:19.716Z'
+dateModified: '2016-08-31T21:13:56.152Z'
 title: Anthony White Conversation E3 Play 2016
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=kzEDJQVq7Y8&feature=applinks'
@@ -65,10 +66,7 @@ publisher:
 description: Uploaded by MXFL Network on 2016-08-31.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-31-anthony-white-conversation-e3-play-2016.md
-inFeed: true
-hasPage: false
-inNav: false
+url: anthony-white-conversation-e3-play-2016/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
