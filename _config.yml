@@ -1,8 +1,30 @@
-name: MXFL
-favicon: null
-layout_spectrum: 0.73851
 typography_spectrum: 0.8093
-title: Madden Xtreme Football League
+color:
+  brandColors:
+    - '#ffffff'
+    - '#060606'
+    - '#c2c2c2'
+    - '#797979'
+    - '#fd0000'
+  brandStrength: 0.1875
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.73851
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: MXFL
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#060606'
-    - '#c2c2c2'
-    - '#797979'
-    - '#fd0000'
-  brandStrength: 0.1875
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+title: Madden Xtreme Football League
+description: Home of the Maximus
 purpose: []
