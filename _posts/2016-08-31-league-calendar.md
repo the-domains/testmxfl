@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T14:17:04.732Z'
+datePublished: '2016-08-31T14:17:20.702Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T14:16:37.744Z'
+dateModified: '2016-08-31T14:17:19.703Z'
 title: League Calendar
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-31-league-calendar.md
-_type: Blurb
+hasPage: true
+starred: false
+url: league-calendar/index.html
+_type: Article
 
 ---
 # League Calendar
