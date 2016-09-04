@@ -37,6 +37,9 @@ navigation:
   - name: testcalendar
     id: dbbc9234-115c-4960-b33a-1ed4b8960b91
     type: content
+  - name: MXFL Network
+    id: f7a38a68-edc3-4f74-ba63-1405966d8fad
+    type: content
 favicon: null
 collections:
   - index:
