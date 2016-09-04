@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-09-01T16:25:05.256Z'
+datePublished: '2016-09-01T20:21:07.036Z'
 sourcePath: _posts/2016-08-31-about-mxfl.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T16:25:04.139Z'
+dateModified: '2016-09-01T20:21:06.602Z'
 title: About MXFL
 publisher: {}
 description: ''
-starred: false
+starred: true
 url: about-mxfl/index.html
 _type: Blurb
 
