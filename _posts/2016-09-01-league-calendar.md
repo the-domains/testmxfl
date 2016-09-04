@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-01T15:41:05.846Z'
+datePublished: '2016-09-01T15:41:59.617Z'
+sourcePath: _posts/2016-09-01-league-calendar.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T15:40:57.729Z'
+dateModified: '2016-09-01T15:41:59.149Z'
 title: League Calendar
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-09-01-league-calendar.md
 _type: Blurb
 
 ---
