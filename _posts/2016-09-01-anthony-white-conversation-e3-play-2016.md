@@ -67,16 +67,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/kzEDJQVq7Y8?list=PLZF_C0HxrcT6YSYe3kPn9U9V0CLp9_CwS'
 title: Anthony White Conversation E3 Play 2016
-datePublished: '2016-09-01T15:26:42.489Z'
-dateModified: '2016-09-01T15:18:53.594Z'
+datePublished: '2016-09-01T15:54:36.880Z'
+dateModified: '2016-09-01T15:54:36.290Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-01-anthony-white-conversation-e3-play-2016.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: anthony-white-conversation-e3-play-2016/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
