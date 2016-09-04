@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-31T14:13:52.444Z'
+datePublished: '2016-09-01T20:21:37.611Z'
 sourcePath: _posts/2016-08-31-mxfl-rules-and-regulations.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T14:13:43.096Z'
+dateModified: '2016-09-01T20:21:36.944Z'
 title: MXFL Rules and Regulations
 publisher: {}
 description: ''
-starred: false
+starred: true
 url: mxfl-rules-and-regulations/index.html
 _type: Article
 
